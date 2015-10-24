@@ -1,6 +1,6 @@
 package jumar.scalatour.basics
 
-object Class {
+object DefineClass {
 
   class Person(val firstName: String, val lastName: String) {
 
